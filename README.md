@@ -108,7 +108,7 @@ The application uses a multi-factor decision matrix to evaluate loan application
 ## Project structure
 
 ```text
-temporal-project/
+loan-approval-app/
 ├── app.py                  # Flask application (main entry point)
 ├── decision_engine.py      # Core decision logic and evaluation
 ├── rules.json             # Decision rules and compliance settings
@@ -208,7 +208,7 @@ temporal-project/
 
 1. Open a new terminal window (Terminal 2).
 
-1. In Terminal 2, run `curl` commands to test the application. Note: You don't need to activate `venv` in this terminal. The following are the sample commands. You can change the values for testing purposes.
+1. In Terminal 2, run `curl` commands to test the application. Note: You don't need to activate `venv` in this terminal. Enter the following sample commands. You can change the values for testing purposes.
 
    **Pre-Approved Example:**
 
