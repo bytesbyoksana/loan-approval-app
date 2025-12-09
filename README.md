@@ -175,7 +175,7 @@ loan-approval-app/
    python app.py
    ```
 
-1. You should see the following output:
+   You should see the following output:
 
    ```
    * Running on http://127.0.0.1:5000
